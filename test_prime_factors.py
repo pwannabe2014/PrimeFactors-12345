@@ -1,6 +1,6 @@
 import pytest
 
-from primefactor import PrimeFactor
+from prime_factors import PrimeFactor
 
 
 def test_prime_factor_of_1():
